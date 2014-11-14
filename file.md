@@ -1,1 +1,1 @@
-This is the text of a file. It was added via api.
+This file was updated via the api.
